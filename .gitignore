@@ -1,0 +1,8 @@
+.calva/
+.shadow-cljs/
+.lsp
+node_modules/
+package-lock.json
+public/js/compiled/
+data/.DS_Store
+

@@ -1,0 +1,50 @@
+/* some style */
+.MuiButton-root {
+    font-family: 'Open Sans', sans-serif !important;
+    font-size: 14.8px !important;
+    margin-right: 10px !important;
+}
+
+.title {
+    margin-right: 10px !important;
+    padding: 8px;
+    background-image: linear-gradient(90deg, rgba(0,157,255,1) 13%, rgba(9,91,121,1) 74%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: 'Inter', sans-serif !important;
+}
+
+body {
+    overflow: hidden !important; /* Hide scrollbars */
+    background-color: white;
+}
+
+.topbar {
+  margin-top: 0px !important;
+}
+
+/* Icons */
+.MuiIconButton-root {
+  margin-left: 15px !important;
+  /* border-radius: 10% !important; */
+}
+
+.stop-btn {
+  color: #b90504 !important;
+  background-color: #f6f6f6 !important;
+}
+
+.stop-btn:hover {
+  background-color: rgb(185, 5, 4, 0.75) !important;
+  color: white !important;
+}
+
+.play-btn {
+  color: #0e6ba8 !important;
+  background-color: #f6f6f6 !important;
+}
+
+.play-btn:hover {
+  background-color: rgb(14, 107, 168, 0.75) !important;
+  color: white !important;
+}
